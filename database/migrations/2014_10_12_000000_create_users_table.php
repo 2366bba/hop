@@ -19,7 +19,7 @@ return new class extends Migration
             $table->timestamp('email_verified_at')->nullable();
             $table->string('password');
             $table->rememberToken();
-            $table->enum('level', ['superadmin', 'admin', 'user']);
+            $table->enum('level', ['superadmin', 'admin']);
             $table->enum('status_aktif', ['aktif', 'tidak aktif'])->default('aktif');
             $table->string('created_by')->nullable();
             $table->string('updated_by')->nullable();
