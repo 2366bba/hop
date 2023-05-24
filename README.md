@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/2366bba/hop/blob/main/public/depan/img/Logo.png" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/2366bba/hop/blob/main/public/depan/img/Logo.png" width="200" alt="Laravel Logo"></a></p>
 
 ## What is Hangout Project?
 
